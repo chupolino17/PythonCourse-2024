@@ -3,7 +3,7 @@
 Ссылка на папку с записями лекций: https://disk.yandex.ru/d/Tq1jQXZqxFcZJg
 
 ## Лекции
-1. [Intoduction](LectureO1)
+1. [Intoduction](Lecture01)
 
 # Как сдать курс
 
