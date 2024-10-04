@@ -4,6 +4,12 @@
 
 ## Лекции
 1. [Intoduction](Lecture01)
+2. [Loops, Containers, String, Dicts, Sets, Collections.](Lecture02)
+3. [Functions and Strings](Lecture03)
+4. [OOP](Lecture04)
+
+## Контесты
+1. [Контест 1](https://contest.yandex.ru/contest/69101/)
 
 # Как сдать курс
 
