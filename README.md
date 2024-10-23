@@ -1,6 +1,9 @@
 # PythonCourse-2023
 
-Ссылка на папку с записями лекций: https://disk.yandex.ru/d/Tq1jQXZqxFcZJg
+Ссылка на папку с записями лекций: https://disk.yandex.ru/d/Tq1jQXZqxFcZJg \
+Ссылка на канал с анонсами: https://t.me/+XPBuqpNe3-hkY2Yy \
+Ссылка на общий чат курса: https://t.me/+d6WlxLq3AkY0Njdi
+
 
 ## Лекции
 1. [Intoduction](Lecture01)
