@@ -10,7 +10,8 @@
 2. [Loops, Containers, String, Dicts, Sets, Collections.](Lecture02)
 3. [Functions and Strings](Lecture03)
 4. [OOP](Lecture04)
-4. [Unittest](Lecture05)
+5. [Unittest](Lecture05)
+6. [Web & Flask](Lecture06)
 
 ## Контесты
 1. [Контест 1 - Deadline (13.10.2024)](https://contest.yandex.ru/contest/69101/)
