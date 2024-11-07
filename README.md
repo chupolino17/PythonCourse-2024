@@ -12,6 +12,7 @@
 4. [OOP](Lecture04)
 5. [Unittest](Lecture05)
 6. [Web & Flask](Lecture06)
+6. [Scrapping](Lecture07)
 
 ## Контесты
 1. [Контест 1 - Deadline (13.10.2024)](https://contest.yandex.ru/contest/69101/)
