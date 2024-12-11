@@ -14,6 +14,8 @@
 6. [Web & Flask](Lecture06)
 7. [Scrapping](Lecture07)
 8. [Databases & SQL](Lecture08)
+8. [Numpy](Lecture09)
+8. [Pandas](Lecture10)
 
 ## Контесты
 1. [Контест 1 - Deadline (13.10.2024)](https://contest.yandex.ru/contest/69101/)
@@ -33,8 +35,6 @@
 1. Контесты (5)
     - 10 баллов за каждый
     - 2 недели на контест
-2. Interactive (2)
-    - 20 баллов (ранжируются по результату)
 2. Web Code Review (1)
     - Работа над кодом в **несколько** итераций
     - Есть обяязательная часть
@@ -52,7 +52,7 @@
 
 ### 1. Если вы сдали ревью, прошли тест и лабораторную работу
 ###
-$$ \min(10, \lfloor9 * \frac{\text{Contest} + \text{Lab} + \text{Interactive} + \text{Test} + \text{Final}}{\text{MaxContest} + \text{MaxLab} + \text{MaxTest} + \text{MaxFinal}} + \text{ReviewBonus} \rfloor) $$
+$$ \min(10, \lfloor9 * \frac{\text{Contest} + \text{Lab} + \text{Test} + \text{Final}}{\text{MaxContest} + \text{MaxLab} + \text{MaxTest} + \text{MaxFinal}} + \text{ReviewBonus} \rfloor) $$
 
 ### 2. Если вы сдали ревью, но не прошли тест или не сдали лабораторную работу
 
