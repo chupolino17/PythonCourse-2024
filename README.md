@@ -19,8 +19,9 @@
 
 ## Контесты
 1. [Контест 1 - Deadline (13.10.2024)](https://contest.yandex.ru/contest/69101/)
-1. [Контест 2 - Deadline (20.10.2024)](https://contest.yandex.ru/contest/69102/)
-1. [Контест (3-5) - Deadline (03.11.2024)](https://contest.yandex.ru/contest/69998/)
+2. [Контест 2 - Deadline (20.10.2024)](https://contest.yandex.ru/contest/69102/)
+3. [Контест (3-5) - Deadline (03.11.2024)](https://contest.yandex.ru/contest/69998/)
+4. [Лабораторная - Deadline (26.12.2024)](LabWork)
 
 ## Ревью
 Условия ревью: [review.md](review.md) \
