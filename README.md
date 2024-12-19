@@ -14,8 +14,9 @@
 6. [Web & Flask](Lecture06)
 7. [Scrapping](Lecture07)
 8. [Databases & SQL](Lecture08)
-8. [Numpy](Lecture09)
-8. [Pandas](Lecture10)
+9. [Numpy](Lecture09)
+10. [Pandas](Lecture10)
+11. [Matpoltlib, Seaborn](Lecture11/)
 
 ## Контесты
 1. [Контест 1 - Deadline (13.10.2024)](https://contest.yandex.ru/contest/69101/)
